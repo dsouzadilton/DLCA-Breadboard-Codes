@@ -1,0 +1,25 @@
+<breadboard>
+  <setting key="numberOfBreadboards" value="1" />
+  <setting key="simulationSpeed" value="1" />
+  <setting key="positiveRailVoltage" value="5" />
+  <setting key="negativeRailVoltage" value="-5" />
+  <component ref="IC1" type="Integrated Circuit" startX="90" startY="150" angle="0" model="4070 XOR" />
+  <component ref="IC2" type="Integrated Circuit" startX="300" startY="150" angle="0" model="4081 AND" />
+  <component ref="D1" type="LED" startX="225" startY="210" angle="0" model="Red" />
+  <component ref="D2" type="LED" startX="435" startY="195" angle="0" model="Red" />
+  <wire startX="181" startY="256" length="0" orientation="vert" colour="#FF000000" />
+  <wire startX="181" startY="286" length="-2" orientation="vert" colour="#FF000000" />
+  <wire startX="91" startY="211" length="-1" orientation="horiz" colour="#FFFF0000" />
+  <wire startX="106" startY="226" length="-3" orientation="horiz" colour="#FFFF0000" />
+  <wire startX="121" startY="211" length="7" orientation="horiz" colour="#FFFFA500" />
+  <wire startX="241" startY="286" length="-4" orientation="vert" colour="#FF000000" />
+  <wire startX="391" startY="241" length="3" orientation="vert" colour="#FF000000" />
+  <wire startX="451" startY="226" length="4" orientation="vert" colour="#FF000000" />
+  <wire startX="436" startY="211" length="-7" orientation="horiz" colour="#FFFF7F50" />
+  <wire startX="76" startY="241" length="15" orientation="horiz" colour="#FFFF0000" />
+  <wire startX="61" startY="256" length="17" orientation="horiz" colour="#FFFF0000" />
+  <wire startX="301" startY="136" length="-5" orientation="vert" colour="#FFFF0000" />
+  <wire startX="91" startY="136" length="-5" orientation="vert" colour="#FFFF0000" />
+  <wire startX="61" startY="196" length="-9" orientation="vert" colour="#FFFF0000" />
+  <wire startX="76" startY="196" length="-9" orientation="vert" colour="#FFFF0000" />
+</breadboard>
